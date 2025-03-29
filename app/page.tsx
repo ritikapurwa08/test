@@ -1,3 +1,4 @@
+"use client";
 import UserDropDown from "@/components/user-dropdown";
 import { SignedIn, SignedOut, SignInButton } from "@clerk/clerk-react";
 import React from "react";
